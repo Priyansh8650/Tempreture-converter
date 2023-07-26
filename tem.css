@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(tem..png);
+  
+    
+    
+     
+  }
+  body h1{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    margin:6;
+    font-style: bold;
+    
+  }
+  
+  .container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    padding: ;
+    
+    
+  }
+  
+  .form {
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 7px;
+    background-color: #f9f9f9;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  input[type="number"], select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  
+
+  
